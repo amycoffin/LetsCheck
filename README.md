@@ -1,3 +1,6 @@
-# My Awesome Book
+# LetsCheck 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a kind of test file to make sure GitBook does what it says. 
+
+
+
