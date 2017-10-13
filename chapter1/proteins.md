@@ -10,7 +10,7 @@ So, you get to page 64, and you realize that you only have one copy of the manua
 
 This process is analogous to what your cells do. Consider a chromosome, like chromosome 13, to be a kind of manual: a lot of information is contained in the chromosome, but only one specific region is needed to make a BRCA2 protein. BRCA2 is in between nucleotide number 32,315,480 and 32,399,672 in chromosome 13 according to the reference genome, which is analogous to instructions being in pages 64-70 in the instruction manual \(Genetics Home Reference\). The cell makes a copy of this region, using &lt;mRNA&gt;. The mRNA then travels to the &lt;ribosome&gt;, which follows the instructions and builds a protein. A protein is built using &lt;Amino Acids&gt;, which are small molecules that can be arranged in different orders, depending on what the gene is instructing. To see this process in action, watch this short video:
 
-\[!\[Watch the video\]\([https://img.youtube.com/vi/&lt;gG7uCskUOrA&t&gt;/0.jpg\)\]\(http://youtu.be/vt5fpE0bzSY\)](https://img.youtube.com/vi/<gG7uCskUOrA&t>/0.jpg%29]%28http://youtu.be/vt5fpE0bzSY%29%28https://www.youtube.com/watch?v=gG7uCskUOrA&t\)\][\(https://www.youtube.com/watch?v=gG7uCskUOrA&t\](https://img.youtube.com/vi/<gG7uCskUOrA&t>/0.jpg%29]%28http://youtu.be/vt5fpE0bzSY%29%28https://www.youtube.com/watch?v=gG7uCskUOrA&t%29\)\)
+[![Watch the video](https://img.youtube.com/vi/<gG7uCskUOrA&t>/0.jpg)](https://www.youtube.com/watch?v=gG7uCskUOrA&t)](https://www.youtube.com/watch?v=gG7uCskUOrA&t\)
 
 Genetics Home Reference. Reviewed October 15. &lt;[https://ghr.nlm.nih.gov/gene/BRCA2\#location](https://ghr.nlm.nih.gov/gene/BRCA2#location&gt)&gt;
 
