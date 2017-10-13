@@ -25,5 +25,10 @@ a {
 }
 
 .book-summary {
-	background-color: #eff8fd;
+	background-color: #f2dede;
+}
+
+.summary {
+	font-weight: bold;
+	color: #777;
 }
