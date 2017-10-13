@@ -33,10 +33,14 @@ li {
     font-weight: 200;
 }
 
-.summary li {
+.summary a {
 	/*side navbar links*/
 	font-size: 1em;
 	color: #777;
 	font-weight: bold;
 	text-transform: uppercase;	
 }
+/*
+.summary a {
+	font-size: 1em;
+}*/
