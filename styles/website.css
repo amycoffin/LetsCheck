@@ -24,7 +24,18 @@ a {
     text-decoration: none;
 }
 
+a.custom-link {
+	font-weight: bold;
+}
+
 li {
 	font-size: 1.2em;
     font-weight: 200;
+}
+
+.summary li {
+	/*side navbar links*/
+	color: #777;
+	font-weight: bold;
+	text-transform: uppercase;	
 }
