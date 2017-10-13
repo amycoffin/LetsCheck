@@ -1,12 +1,6 @@
-# General Section
+# Biological Background
 
-![](/assets/Inherit1.png)
-
-
-
-* Lets 
-* Test 
-* BulletPoints 
+# ![](/assets/Inherit1.png)
 
 
 
