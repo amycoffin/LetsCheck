@@ -24,22 +24,6 @@ a {
     text-decoration: none;
 }
 
-/*a.custom-link {*/
-	/*font-weight: bold;*/
-	/*font-size: 1.3em;*/
-/*}*/
-.summary:first-child {
-	background-image: url('../assets/brcaexchangelogo.png');
-}
-
 .book-summary {
 	background-color: #eff8fd;
 }
-
-
-/*
-li {
-	font-size: 1.2em;
-    font-weight: 200;
-}*/
-
