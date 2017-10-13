@@ -2,8 +2,29 @@ h1 {
 	font-size: 36px;
 }
 
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+
+}
+
+h4 {
+	font-size: 18px;
+}
+
 p {
 	font-size: 1.2em;
 	font-weight: 200;
 }
 
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+li {
+	font-size: 1.2em;
+    font-weight: 200;
+}
