@@ -26,7 +26,14 @@ a {
 
 a.custom-link {
 	font-weight: bold;
+	font-size: 1.3em;
 }
+
+.book-summary {
+	background-color: #eff8fd;
+}
+
+
 /*
 li {
 	font-size: 1.2em;
