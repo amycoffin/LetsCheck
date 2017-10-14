@@ -1,6 +1,6 @@
 ## Your Genes Code for Proteins {#your-genes-code-for-proteins}
 
-To review, whole chromosomes are sequenced to obtain their unique “spellings,” and a region of a chromosome is considered a genes. Genes instruct cells how to make **proteins**, which ultimately do most of the work associated with a gene. This process involves translating a string of nucleotides \(DNA\) into a string of **amino acids **\(a **protein**\). Similar to DNA, which is made of nucleotide building blocks, proteins are made of amino acid building blocks. However, your cells have to keep genes safe, because each cell only has one full set of gene instructions. Thus, the cell goes through a few different steps to read genes and make them into proteins without compromising the original copy.
+To review, whole chromosomes are sequenced to obtain their unique “spellings,” and a region of a chromosome is considered a genes. Genes instruct cells how to make **proteins**, which ultimately do most of the work associated with a gene. This process involves translating a string of nucleotides \(DNA\) into a string of **amino acids, **thus making a **protein**. Similar to DNA, which is made of nucleotide building blocks, proteins are made of amino acid building blocks. However, your cells have to keep genes safe, because each cell only has one full set of gene instructions. Thus, the cell goes through a few different steps to read genes and make them into proteins without compromising the original copy.
 
 A metaphor might be the best way to explain these steps:
 
