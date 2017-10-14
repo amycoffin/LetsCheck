@@ -6,10 +6,9 @@ Chromosomes are made up of DNA. As you might already know, DNA is a molecule bui
 
 Each of your chromosome pairs has its own unique sequence of these nucleotides. Genes are particular patterns of As, Ts, Cs, and Gs that are instructions for the cell to {make particular proteins.} Genes vary in length  \(~85,000 bp in the case of BRCA2; ~115 million bp in the case of chromosome 13\) and make up a small part of their chromosome’s much, much longer sequence. Your chromosomes contain all of your genes, as well as extra DNA that does not code for proteins. All of this DNA together is called the &lt;genome&gt;.
 
-The particular order, or spelling, of base pairs make each of your chromosomes and each gene different from one another. Reading the order of these base pairs, and representing them in a digital format, is called &lt;genomic sequencing.&gt; This is what a very small portion of a huge genetic sequence looks like, spelled using A, T, C, and G:  
+The particular order, or spelling, of base pairs make each of your chromosomes and each gene different from one another. Reading the order of these base pairs, and representing them in a digital format, is called &lt;genomic sequencing.&gt; This is what a very small portion of a huge genetic sequence looks like, spelled using A, T, C, and G:
 
-
-
+                            ![](/assets/FASTQScreenshot.png)
 
 You might think of this process like taking one of those chromosome “books” a parent gave you, and scanning every single page so that you have a digital copy. Once scientists have a digital copy of your chromosome’s nucleotide sequences, they can use computer software to analyze its contents.
 
