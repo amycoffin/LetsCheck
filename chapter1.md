@@ -1,4 +1,4 @@
-## What is a variant?
+## Biological Background on Variants
 
 Genetic testing looks for is changes to the code within genes, called **variants** \(or mutations\). When interpreted by experts, variants in genes can tell you whether or not you are at higher risk for disease. Sometimes, a genetic test successfully identifies a variant, but an official interpretation has not been made because there is not enough information about that variant. This result is often called a “variant of uncertain significance,” or deemed inconclusive.
 
