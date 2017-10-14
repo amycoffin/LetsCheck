@@ -8,7 +8,7 @@ Each of your chromosome pairs has its own unique sequence of these nucleotides. 
 
 The particular order, or spelling, of base pairs make each of your chromosomes and each gene different from one another. Reading the order of these base pairs, and representing them in a digital format, is called &lt;genomic sequencing.&gt; This is what a very small portion of a huge genetic sequence looks like, spelled using A, T, C, and G:
 
-                            ![](/assets/FASTQScreenshot.png)
+                  ![](/assets/FASTQScreenshot.png)
 
 You might think of this process like taking one of those chromosome “books” a parent gave you, and scanning every single page so that you have a digital copy. Once scientists have a digital copy of your chromosome’s nucleotide sequences, they can use computer software to analyze its contents.
 
