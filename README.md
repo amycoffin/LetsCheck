@@ -10,7 +10,3 @@ Making the decision to get a genetic test can be intimidating. In these help pag
 
 ![](/assets/BRCAExLogo.png)
 
-
-
-
-
