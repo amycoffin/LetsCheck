@@ -6,7 +6,7 @@ It might be helpful to think of chromosomes like sets of books your parents gave
 
 When scientists study chromosomes, they number each pair of chromosomes from largest to smallest. Most people have 23 pairs of chromosomes, 46 total. Every cell in your body has the same 23 pairs of chromosomes. These chromosomes contain the instructions needed to make all of your proteins, which help your cells, tissues, and organs develop and function properly. Each cell decides which protein instructions to follow, and which to ignore, depending on what that cell’s job is. The process where a cell decodes gene instructions to make a protein is called {&lt;gene expression.&gt;}
 
-   !\\[\\]\\(/assets/Karyotype.jpg\\) !\\[\\]\\(/assets/ChromosomeGeneSmaller.png\\)
+![](/assets/Karyotype.jpg)  ![](/assets/ChromosomeGeneSmaller.png)
 
 To give an example, the BRCA1 gene is located on chromosome 17, while BRCA2 is located on chromosome 13. For our purpose, let us focus on BRCA-2.
 
