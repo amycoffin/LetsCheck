@@ -12,3 +12,5 @@ To give an example, the BRCA1 gene is located on chromosome 17, while BRCA2 is l
 
 Everybody has two BRCA2 genes, one from each parent. You can compare these to the same chapter in the pair of books you inherited. The two genes are almost identical, but may contain small differences from each other. Not only does the gene you get from one parent differ from the other parent, but your two genes might also differ from the rest of the population. When compared to other people, your gene might be spelled differently. This different spelling is due to a variant, which is a specific change at a specific location in your DNA. It makes your gene spelled slightly differently than most other peoples’.
 
+![](/assets/AutosomalDominant.png)
+
